@@ -27,7 +27,7 @@ layout: default
       </li>
       {%- endfor -%}
 
-      <h2 class="post-list-heading">Latest Posts on Medium</h2>
+      <h2 class="post-list-heading">Medium Posts</h2>
       <ul class="post-list">
         {%- for m in site.medium_posts -%}
         <li>
@@ -38,12 +38,15 @@ layout: default
               {{ m.title | escape }}
             </a>
           </h3>
-          <span class="post-meta">tag(s): 
-            {% for tag in m.tags %}
-              {{ tag | downcase }}
+          <span class="post-meta">
+            {%- if m.tags.size > 0 -%}
+              tag(s): 
+              {% for tag in m.tags %}
+                {{ tag | downcase }}
                 {% unless forloop.last %}, 
                 {% endunless %}
-            {% endfor %}
+              {% endfor %}
+            {%- endif -%}
           </span>
           {%- if site.show_excerpts -%}
             {{ m.excerpt }}

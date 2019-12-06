@@ -26,6 +26,8 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
+  {%- endif -%}
+  
 
       <h2 class="post-list-heading">Medium Posts</h2>
       <ul class="post-list">
@@ -48,11 +50,7 @@ layout: default
               {% endfor %}
             {%- endif -%}
           </span>
-          {%- if site.show_excerpts -%}
-            {{ m.excerpt }}
-          {%- endif -%}
         </li>
         {%- endfor -%}
     </ul>
-  {%- endif -%}
 </div>

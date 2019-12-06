@@ -13,25 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Charlie Kaminer Thinks
+title: Charlie Kaminer Wrote Some Stuff
 author: Charles Kaminer
 email: cjkaminer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a Charlotte based software developer. Currently building out infrastructure
-  on the Automation & Orchestration team at Allstate's CompoZed Labs.
+  I'm a New York City based software developer, currently working as an on-site 
+  consultant for a large search company. Before moving to New York in May 2019 I
+  was building out infrastructure on the Automation & Orchestration team for Allstate's
+  Compozed Labs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cjkaminer
 github_username:  ckaminer
 
-collections:
-  - medium_posts
-
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -39,9 +36,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - medium_converter.js
+  - 2019-04-05-welcome-to-jekyll.md

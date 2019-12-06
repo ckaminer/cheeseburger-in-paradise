@@ -41,3 +41,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - 2019-04-05-welcome-to-jekyll.md
+  - deploy.sh

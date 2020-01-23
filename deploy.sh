@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Build site locally with custom plugins
-jekyll build
+JEKYLL_ENV=deploy jekyll build
 
 # clear out current static site for clean slate
 rm -rf ../personal-site-static/*

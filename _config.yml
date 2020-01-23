@@ -30,6 +30,8 @@ github_username:  ckaminer
 markdown: kramdown
 theme: minima
 
+google_analytics: UA-156796990-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

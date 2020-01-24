@@ -212,6 +212,38 @@ The following table shows the comparison of expected wins relative to each perso
 | scott | 8 | 8.803 | 8.399 |
 | tyler | 7 | 8.634 | 8.388 |
 
-**Technologies:**
-- Code written in Python 3
-- Main libraries used: stats, pyplot
+**"What if..."**
+
+Below you can find a comparison of the actual playoff results with what the playoff standings and results would have looked like based off of expected schedule-relative wins. Divisions were still taken into account - top three seeds are division winners, three wildcards. The results are based off of actual scores from weeks 14-16.
+
+| Actual Standings | Expected Standings |
+| -- | -- |
+| 1. Fratt - BYE<br>2. Pine - BYE<br>3. Scott<br>4. Connor<br>5. Tyler<br>6. Roger | 1. Fratt - BYE<br>2. Scott - BYE<br>3. Connor<br>4. Tyler<br>5. Mark<br>6. Charles |
+
+*Actual Results:*
+```
+Round 1
+Roger(6) def. Scott(3)
+Connor(4) def. Tyler(5)
+
+Round 2
+Roger(6) def. Pine(2)
+Connnor(4) def. Fratt(1)
+
+Championship
+Connor(4) def. Roger(6)
+```
+
+*Expected Results:*
+```
+Round 1
+Connor(3) def. Charles(6)
+Tyler(4) def. Mark(5)
+
+Round 2
+Tyler(4) def. Fratt(1)
+Connnor(3) def. Scott(2)
+
+Championship
+Tyler(4) def. Connor(3)
+```

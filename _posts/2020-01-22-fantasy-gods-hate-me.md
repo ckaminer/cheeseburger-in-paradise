@@ -3,6 +3,7 @@ layout: post
 title:  "The Fantasy Gods Hate Me"
 date:   2020-01-22
 categories: fantasy_football math python
+tags: ["fantasy football", "probability", "python"]
 ---
 
 ### Introduction

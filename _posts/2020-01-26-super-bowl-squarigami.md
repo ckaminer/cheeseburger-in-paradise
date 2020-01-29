@@ -35,13 +35,13 @@ This year while setting up the board for Super Bowl squares I started wondering 
 
 After taking some time to gather all of the required data the first thing I wanted to do was overlay the count of each result onto a typical Super Bowl square grid. It's not the easiest on the eyes but this one will be fun to come back to when squares are filled up and everyone has their numbers.
 
-<img src='/assets/squarigami/league_specific_distribution.png' width='600px' height='480px'>
+<img src='/assets/squarigami/league_specific_distribution.png' width='550px' height='480px'>
 
 One thing to note here is that this chart is specific to the AFC and NFC scores. This means that the combination of, say, 5 and 3 appears twice - once when the AFC number is 5 and the NFC number is 3, and once when the AFC number is 3 and the NFC number is 5. This is consistent with the rules of Super Bowl squares in the sense that your numbers need to match up with the right teams, but it is not very Scorigami-like.
 
 Naturally, the next step should be to show the distribution of occurances regardless of which team has each number. Now we'll have something that resembles the Scorigami chart a little bit more.
 
-<img src='/assets/squarigami/league_agnostic_distribution.png' width='600px' height='480px'>
+<img src='/assets/squarigami/league_agnostic_distribution.png' width='550px' height='480px'>
 
 Another version of this chart with percentages and a heat map can be found [here](/assets/squarigami/league_agnostic_percentages.png). Idea for future self: make up one of these grids and instead of pulling numbers randomly, assign prices based off of likelihood that combination occurs. That will be really fun and I'm sure a ton of people will want to participate and I won't need my dad buy any empty squares at the end to fill it up.
 
@@ -146,7 +146,7 @@ A bit to my surprise, there has never been a repeat winner that did not win back
 
 ### All I Got For Now
 
-Thanks for reading. Hopefully this gets some of you a little more fired up for your squares. If you don't have any squares yet and you want to get involved, I have about 30 left on my grid so reach out! I'll also be moving some of this to Twitter to keep track of events in true Scorigami fashion. So be sure to check out [@SB_squarigami](https://twitter.com/SB_squarigami) and smash that follow button.
+Thanks for reading. Hopefully this gets some of you a little more fired up for your squares. If you don't have any squares yet and you want to get involved, I have about 30 left on my grid so reach out! I'll also be moving some of this to Twitter to keep track of events in true Scorigami fashion. All of that can be found at [@SB_squarigami](https://twitter.com/SB_squarigami).
 
 And now, for no other reason than the fact that this is my site and I can do whatever I want, I present to you all of the box scores from Tom Brady's six Super Bowl championships.
 

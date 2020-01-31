@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Losing Weight Is Hard"
+title:  "Losing Weight Is Easy"
 date:   2020-01-29
 tags: ["health", "diet"]
 ---
@@ -9,7 +9,7 @@ Here we go, I'm going to tell you why [I suck](https://www.youtube.com/watch?v=x
 
 Earlier this month I signed up for a "Biggest Loser" type challenge at my gym. It's an 8-week challenge and the winner gets $1000. We are also split into teams (shoutout Red team) that compete in mini challenges throughout the eight weeks and provide support for each other.
 
-Up until yesterday thins were going pretty well. I've experienced some moderate success losing weight since I started going to Orange Theory Fitness (OTF) in December 2018. The number one thing I like about Orange Theory is that it keeps me accountable. Traditional gyms are pretty clearly not my thing and I think the main reason for that is because I would either get bored, uncreative, or lazy. OTF pretty much solves all of those problems for me. Boredom and creativity are taken care of because the workouts are put together by the coaches ahead of time and they are different every day. The laziness is taken care of because with a class workout I have to schedule them in advance and if I don't go I get charged money.
+Up until yesterday things were going pretty well. I've experienced some moderate success losing weight since I started going to Orange Theory Fitness (OTF) in December 2018. The number one thing I like about Orange Theory is that it keeps me accountable. Traditional gyms are pretty clearly not my thing and I think the main reason for that is because I would either get bored, uncreative, or lazy. OTF pretty much solves all of those problems for me. Boredom and creativity are taken care of because the workouts are put together by the coaches ahead of time and they are different every day. The laziness is taken care of because with a class workout I have to schedule them in advance and if I don't go I get charged money.
 
 So for this challenge it was not going to be that difficult from a workout perspective. I go to OTF 3-5 days a week and that wouldn't be changing. Sure, I'm doing my best to give each workout a more focused effort but in general, that part of my lifestyle wouldn't change. Of course, it was my intake that would have to change in order for me to achieve results I could be proud of. So far it hasn't been bad: lighter breakfasts in the mornings, salads for lunch, less eating out for dinner, etc. etc. The other change I'm attempting to make during this challenge is cutting out beer entirely. Key word here is beer. Wine and liquor are still fair play. What could go wrong?
 

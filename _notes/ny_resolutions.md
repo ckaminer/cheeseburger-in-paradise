@@ -14,7 +14,7 @@ created_date: 2020-01-30
 
     | Month | Orange Theory | Outside | Monthly Total | Yearly Total |
     | -- | -- | -- | -- | -- |
-    | January | - | - | - | - |
+    | January | 19.53 | 0 | 19.53 | 19.53 |
     | February | - | - | - | - |
     | March | - | - | - | - |
     | April | - | - | - | - |

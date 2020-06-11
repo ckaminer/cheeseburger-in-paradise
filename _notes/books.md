@@ -1,20 +1,27 @@
 ---
 layout: page
 title:  "Books"
-updated_date: 2020-01-29
+updated_date: 2020-06-11
 created_date: 2020-01-29
 ---
+
+1. [Currently Reading](#currently-reading)
+2. [Finished Reading](#finished-reading)
+3. [Coffee Table Books](#coffee-table-books)
 
 ### Currently Reading
 Two things to know about my reading habits: I'm a scatter brain and I read almost exclusively non-fiction. As a result, I usually have a handful of books going at once and it takes me a very long time to read a single one of them. Usually it's a pattern of "I'm excited about this topic", *read the first half*, "I'm pretty sure I get the picture", "I could use a refresher", *finish book*.
 
-- [The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.com/gp/product/0684832720/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684832720&linkId=a4e9b955a6299c551ca0eb9a0ec1b4b4) by James Dale Davidson and Lord William Rees-Mogg
-- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.amazon.com/gp/product/0375725601/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375725601&linkId=b92e03c5345338737bbd408c6e49cc05) by Erik Larson
+- [The Remains of the Day](https://www.amazon.com/gp/product/0679731725/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0679731725&linkId=c690fb5b6f6fb90db5a930acfd95a17f) by Kazuo Ishiguro
 - [Principles: Life and Work](https://www.amazon.com/gp/product/1501124021/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1501124021&linkId=781156dbcbea515e4b19e1264886429d) by Ray Dalio
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/gp/product/1119473861/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1119473861&linkId=d0b051bc23ee6594bc9ebbc2e84cc9f9) by Saifedean Ammous
 
 ### Finished Reading
 These are all books I've read cover to cover in (roughly) reverse chronological order. Anything pre-2015 has been ommitted.
+
+**2020**
+- [The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.com/gp/product/0684832720/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684832720&linkId=a4e9b955a6299c551ca0eb9a0ec1b4b4) by James Dale Davidson and Lord William Rees-Mogg
+- [The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America](https://www.amazon.com/gp/product/0375725601/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375725601&linkId=b92e03c5345338737bbd408c6e49cc05) by Erik Larson
 
 **2019**
 - [Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Explained](https://www.amazon.com/gp/product/1794326316/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1794326316&linkId=5dba0d8e504a64947f075570f5c5a83f) by Yan Pritzker
@@ -45,9 +52,10 @@ These are all books I've read cover to cover in (roughly) reverse chronological 
 - [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/gp/product/0804137382/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0804137382&linkId=2799378b9de8c5a8f82a6ddc2ba03469) by Greg McKeown
 - [Think and Grow Rich](https://www.amazon.com/gp/product/1585424331/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1585424331&linkId=3952a954df0d2f1a2679c858bc6a3dc2) by Napolean Hill
 
-### Non Cover-to-Cover Books I Look at from Time to Time
-(*These are great books to leave in the bathroom*)
+### Coffee Table Books 
+These books are not intended to be read cover-to-cover. Instead, leave them on your coffee table, on top of your toilet, on your nightstand, etc. As long as they're visible you're more prone to pick it up and take a random peak which is precisely the idea.
 
+- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.com/gp/product/0735211736/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735211736&linkId=63020db0c74d4f1cdec9bcad639c3f0c) by Ryan Holiday
 - [The Four Hour Body: An Uncommon Guide to Rapid Fat Loss, Incredible Sex, and Becoming Superhuman](https://www.amazon.com/gp/product/030746363X/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=030746363X&linkId=203bfffec281ca389f86af26bf37b18e) by Tim Ferriss
 - [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.com/gp/product/B01HSMRWNU/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HSMRWNU&linkId=2999f61028ee9ccb0c8f2b0547b12114) by Tim Ferriss
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&tag=charliewrote-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0984782850&linkId=36d52efce6bca241d9eb7143f6cd4449) by Gayle Laakmann McDowell

@@ -10,15 +10,17 @@ created_date: 2020-01-30
 
     This is more arbitrary than I would like but I couldn't figure out how to make more tangible. So far so good, though. I exited a couple chats and muted the rest. I don't have that screen time tracker app but I'd say in general I've been more productive at home. Unclear if that's causation or correlation at this point but it's a positive result either way.
 
+    June update: The extensive quarantining has tanked this goal as group chats and Zoom calls feel like the only form of socializing currently at my disposal. The positive takeaway from this goal has been the reconfiguring of my notification preferences. I'll take the small victory.
+
 2. **Run 200 miles**
 
     | Month | Orange Theory | Outside | Monthly Total | Yearly Total |
     | -- | -- | -- | -- | -- |
     | January | 19.53 | 0 | 19.53 | 19.53 |
-    | February | - | - | - | - |
-    | March | - | - | - | - |
-    | April | - | - | - | - |
-    | May | - | - | - | - |
+    | February | 20.88 | 0 | 20.88 | 40.41 |
+    | March | 13.03 | 12.51 | 25.54 | 65.95 |
+    | April | 0 | 33.43 | 33.43 | 99.38 |
+    | May | 0 | 23.07 | 23.07 | 122.45 |
     | June | - | - | - | - |
     | July | - | - | - | - |
     | August | - | - | - | - |
@@ -30,6 +32,8 @@ created_date: 2020-01-30
 3. **Put shoes and coats away immediately when I get home**
 
     Ashlynn and I had developed a bad habit of leaving our shoes by the door and hanging our coats on the back of our kitchen chairs which are also close to the door. She's doing this one with me and so far we've done very well.
+
+    June update: This isn't going as well as it was during the first 8-12 weeks of the year which shouldn't be surprising with these kinds of ambiguous goals. But I'd say we are still at a better place than we were in 2019 which is still something to be happy about.
 
 ### 2019
 1. **Go camping in NC once. Must sleep in tent (no glamping)**
